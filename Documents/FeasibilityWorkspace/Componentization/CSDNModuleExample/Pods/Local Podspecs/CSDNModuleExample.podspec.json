@@ -1,0 +1,23 @@
+{
+  "name": "CSDNModuleExample",
+  "version": "0.0.1",
+  "summary": "一个简单的主题.",
+  "description": "一个描述",
+  "homepage": "一般写工程的Git地址，当然有homepage的最好",
+  "license": "MIT",
+  "authors": {
+    "JiaLuKuan": "lukuan.jia@ingeek.com"
+  },
+  "source": {
+    "git": "git地址",
+    "tag": "0.0.1"
+  },
+  "source_files": "CSDNModuleExample/src/*.{h,m}",
+  "public_header_files": "CSDNModuleExample/src/*.h",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

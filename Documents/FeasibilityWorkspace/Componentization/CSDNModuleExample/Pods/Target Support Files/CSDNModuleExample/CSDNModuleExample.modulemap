@@ -1,0 +1,6 @@
+framework module CSDNModuleExample {
+  umbrella header "CSDNModuleExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

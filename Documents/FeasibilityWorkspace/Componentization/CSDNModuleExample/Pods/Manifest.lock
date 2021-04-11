@@ -1,0 +1,16 @@
+PODS:
+  - CSDNModuleExample (0.0.1)
+
+DEPENDENCIES:
+  - CSDNModuleExample (from `./`)
+
+EXTERNAL SOURCES:
+  CSDNModuleExample:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  CSDNModuleExample: 9cdc34c98a35cc79f12c73b93807691508136ba4
+
+PODFILE CHECKSUM: 70e03dcb81977e2c9a79170253f24713fb8beb05
+
+COCOAPODS: 1.10.1
